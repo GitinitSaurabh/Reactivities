@@ -1,0 +1,17 @@
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll
