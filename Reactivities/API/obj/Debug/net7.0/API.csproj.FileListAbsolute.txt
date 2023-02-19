@@ -72,3 +72,8 @@
 /Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/MediatR.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/saurabhawasthi/Desktop/Learnings/FSE/Projects/NetCore7ReactProject/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
