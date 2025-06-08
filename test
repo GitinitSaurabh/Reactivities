@@ -1,0 +1,30 @@
+<Table
+  data={data}
+  tableState={tableState}
+  renderDataRow={({ row, rowIndex, rowClassName, dataTHs, onCellChange, tableState }) => {
+    return (
+      <tr className={rowClassName}>
+        {tableState.columns.map((col, colIndex) => {
+          const isHighlight = rowIndex === 2 && col.header === 'B';
+
+          const cellStyle = isHighlight
+            ? {
+                backgroundColor: 'yellow',
+                outline: '2px solid orange',
+              }
+            : {};
+
+          return (
+            <td
+              key={col.id}
+              data-th={dataTHs[colIndex]}
+              style={cellStyle}
+            >
+              {row[col.id]}
+            </td>
+          );
+        })}
+      </tr>
+    );
+  }}
+/>
